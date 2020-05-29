@@ -1,0 +1,20 @@
+# IOC
+- incident responder - will look into the available info and anlyse the current situation of the system
+- check the threshold to occur a particular attack
+- eg) geographical inrregularities in network
+- unusual network
+- account login red flag
+- read write operation ration in db
+- HTML respose rate over time
+- volume of request to any given file
+- mismatch ports
+- any changes ot the the system or file/registrey
+- Unusual DNS request to the DNS server
+- Unexepected patching outside the scheduled time
+- mobile device the profile
+- the bundle of data in different directs - antivirus services are shutting of etc
+- for different devices the indicators of the compromise will be different
+
+## IOC is really something that related to the threat intelligence
+
+- 
